@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">pruebaList</string>
+    <string name="dialog_fire_missiles">si</string>
+    <string name="fire">sii</string>
+    <string name="cancel">noo</string>
+    <string-array name="producto">
+        <item>Iphone</item>
+        <item>Ipad</item>
+        <item>Android</item>
+        <item>Laptop</item>
+        <item>Desktop</item>
+        <item>Chromecast</item>
+        <item>DVD</item>
+        <item>Sofware</item>
+        <item>Hardware</item>
+        <item>Monitor LCD</item>
+        <item>Mouse Inalambrico</item>
+        <item>Teclado</item>
+        <item>Bluetooh</item>
+        <item>Disco duro SSD</item>
+        <item>Ram DDR4</item>
+    </string-array>
+    <string-array name="detalle">
+        <item>Iphone es un teléfono móvil con herramientas multimedia, desarrollado por la empresa estadounidense Apple Inc. Este tipo de dispositivo es conocido como smarthphone o teléfono inteligente, ya que cuenta con conexión a Internet, pantalla táctil, cámara de fotos, la capacidad de reproducir música y películas</item>
+        <item>El Ipad es un dispositivo electrónico, tipo tablet, esto quiere decir que asume la modalidad de computadora portátil a través de la cual se puede interactuar por medio de una pantalla táctil o multi táctil, permitiéndole con esto al usuario maniobrar la misma con una pluma stylus o con los dedos</item>
+        <item>Android es un sistema operativo inicialmente pensado para teléfonos móviles, al igual que iOS, Symbian y Blackberry OS. Lo que lo hace diferente es que está basado en Linux, un núcleo de sistema operativo libre, gratuito y multiplataforma</item>
+        <item>Una laptop es una computadora portátil de peso y tamaño ligero, su tamaño es aproximado al de un portafolio (hay más pequeñas como Palmtop y Handheld). Ésta pertenece al grupo de las computadoras personales, las cuales son sistemas de computación relativamente pequeños y de bajo costo, también llamados microprocesadores.</item>
+        <item>“Desktop” es una palabra de la lengua inglesa que, traducida al idioma español, tiene el significado de  “ordenador de sobremesa o equipo de escritorio”.El “desktop” está diseñado para una ubicación fija, lo que se viene llamando en la actualidad “torre” u “ordenador horizontal”, pero siendo un nombre que nunca se da al portátil.</item>
+        <item>Chromecast es un dispositivo HDMI que se conecta a la televisión para recivir la señal de los dispositivos multimedia conectados en una misma red WiFI. Basta con emparejar los dispositivos, pulsar la opción Enviar y disfrutar de tus contenidos en pantalla grande</item>
+        <item>Un DVD, abreviatura (en inglés) de "disco digital versátil" o "disco digital de video", es un disco óptico capaz de almacenar contenidos de medios, incluyendo datos, audio y video. En muchos casos, los DVDs son capaces de almacenar los tres.</item>
+        <item>Software es un término informático que hace referencia a un programa o conjunto de programas de cómputo que incluye datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.</item>
+        <item>El hardware es la parte que puedes ver y tocar de los computadores. Es decir, todos los componentes de su estructura física. Por ejemplo, La pantalla, el teclado, la torre y el ratón hacen parte del hardware de tu equipo.</item>
+        <item>Una pantalla de LCD (acrónimo de "cristal líquido" en inglés) es aquella pantalla delgada, formada por un determinado número de píxeles que se colocan delante de una fuente de luz. via Definicion ABC https://www.definicionabc.com/tecnologia/pantalla-lcd.php</item>
+        <item>El ratón se puede conectar de forma alámbrica (puertos PS/2 y USB) o inalámbricamente (comunicación inalámbrica o wireless, por medio de un adaptador USB se conecta a la computadora y esta manda la señal al ratón, también pueden ser por medio de conectividad bluetooth o infrarrojo</item>
+        <item>periférico que permite introducir datos a una computadora o a otra máquina digital. Cuando el usuario presiona una tecla, se envía la información cifrada a la computadora y ésta muestra el carácter correspondiente a la tecla en la pantalla</item>
+        <item>Bluetooth es una especificación industrial para Redes Inalámbricas de Área Personal (WPAN) creado por Bluetooth Special Interest Group, Inc. que posibilita la transmisión de voz y datos entre diferentes dispositivos mediante un enlace por radiofrecuencia en la banda ISM de los 2.4 GHz</item>
+        <item>Las unidades de estado sólido o SSD (Solid State Drive) son una alternativa a los discos duros. La gran diferencia es que mientras los discos duros utilizan componentes mecánicos que se mueven, las SSD almacenan los archivos en microchips con memorias flash interconectadas entre sí</item>
+        <item>DDR4 entrega mayor rendimiento, capacidades DIMM más elevadas, una mejora en la integridad de los datos y ofrece un menor consumo de energía</item>
+    </string-array>
+</resources>
