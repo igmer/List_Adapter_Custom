@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.desarrollo.pruebalist.ListviewActivity">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/myToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="10dp"
+        android:theme="@style/Base.ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/Base.ThemeOverlay.AppCompat.Light"
+        />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:text=' El teléfono Nexus 4, parte de la serie Google Nexus, una línea de dispositivos "adecuados para desarrollo" ("developer-friendly").1​ El desarrollo de programas para Android se hace habitualmente con el lenguaje de programación similar a Java2​ y el conjunto de herramientas de desarrollo SDK ( SDK, SoftwareDevelopment Kit ), pero hay otras opciones disponibles. En julio de 2013 existían más de 1.000.000 de aplicaciones contabilizadas para Android, con aproximadamente 25 mil millones de descargas' />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        app:srcCompat="@drawable/androidico" />
+
+
+</LinearLayout>

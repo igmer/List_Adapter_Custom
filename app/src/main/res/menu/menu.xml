@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu"
+        android:title="Utec"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/perfil"
+        android:icon="@drawable/ic_perfil"
+        android:title="Perfil Estudiante"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/listview"
+        android:icon="@drawable/lista"
+        android:title="Android"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/salir"
+        android:title="Salir"
+        app:showAsAction="never"/>
+
+
+</menu>

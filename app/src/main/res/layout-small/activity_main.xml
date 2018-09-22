@@ -19,7 +19,7 @@
     <ListView
         android:id="@+id/listView1"
         android:layout_width="fill_parent"
-        android:layout_height="match_parent"
+        android:layout_height="500dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true" />
@@ -28,7 +28,24 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
+        <Button
+            android:id="@+id/btnPefil"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:background="#44d3e2"
+            android:text="Perfil Alumno"
+            android:textAlignment="center" />
 
+        <Button
+            android:id="@+id/btnSalir"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+
+            android:background="#fcaaaa"
+            android:text="Salir"
+            android:textAlignment="center" />
     </LinearLayout>
 
 
